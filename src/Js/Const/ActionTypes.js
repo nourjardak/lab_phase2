@@ -1,0 +1,5 @@
+export const ADD_TO_READ="ADD_TO_READ"
+export const DELETE_FROM_READ="DELETE_FROM_READ"
+export const DELETE_FROM_BUY="DELETE_FROM_BUY"
+export const ADD_TO_SHARE="ADD_TO_SHARE"
+export const ADD_TO_BUY="ADD_TO_BUY"

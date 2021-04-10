@@ -1,0 +1,146 @@
+/*Carousel*/
+
+.img1{
+  height: 600px;
+}
+.welcome{
+  font-size: 72px;
+  font-weight: 600;
+}
+.welcome2{
+  font-size: 60px;
+  font-weight: 600;
+}
+@media(max-width: 650px ){
+  .welcome{
+      font-size: 36px !important;
+      font-weight: 600 !important;
+  }
+  .welcome2{ 
+    font-size: 30px !important;
+    font-weight: 600 !important;  
+}
+}
+/*Carousel*/
+/*About*/
+.section1{
+  margin:50px auto;
+  border-radius:10px;
+  box-shadow:5px 10px 18px #888888;
+  padding:20px;
+  width: 80%;
+
+}
+.img2{
+  height: 500px;
+  width:400px ;
+  border-radius: 10px;
+}
+.titre1{
+  font-size: 32px !important;
+  font-weight: 400;
+  font-family:fantasy;
+  color:rgb(88, 21, 21);
+}
+@media(min-width: 768px) and (max-width:1024px){
+  .cardimg{
+      width: 500px !important;
+  }
+  .card-img{
+      width: 100% !important;
+      height: auto !important;
+      align-self: center !important;
+      border-radius: 10px !important;
+  }
+}
+@media (max-width: 540px){
+  .titre1{
+      font-weight: 200 !important;
+  }
+  .section1{
+      padding: 0px;
+      padding-bottom: 4px;
+  }
+
+}
+/*About*/
+/*AllBooks*/
+.Hbookimg{
+  justify-self: center !important;
+  width: 200px !important;
+  height:300px !important;
+  border-radius: 10px !important;
+  box-shadow: 5px 10px 18px rgb(109, 69, 9) ;
+}
+.Rbookimg{
+  justify-self: center !important;
+  width: 200px !important;
+  height:300px !important;
+  border-radius: 10px !important;
+  box-shadow: 5px 10px 18px rgb(87, 7, 7) ;
+}
+.Tbookimg{
+  justify-self: center !important;
+  width: 200px !important;
+  height:300px !important;
+  border-radius: 10px !important;
+  box-shadow: 5px 10px 18px rgb(23, 37, 1) ;
+}
+.Mbookimg{
+  justify-self: center !important;
+  width: 200px !important;
+  height:300px !important;
+  border-radius: 10px !important;
+  box-shadow: 5px 10px 18px rgb(26, 51, 51) ;
+}
+.Fbookimg{
+  justify-self: center !important;
+  width: 200px !important;
+  height:300px !important;
+  border-radius: 10px !important;
+  box-shadow: 5px 10px 18px rgb(109, 34, 194) ;
+}
+.Abookimg{
+  justify-self: center !important;
+  width: 200px !important;
+  height:300px !important;
+  border-radius: 10px !important;
+  box-shadow: 5px 10px 18px rgb(56, 75, 117) ;
+}
+.Htitle{
+  color:rgb(109, 69, 9)
+}
+.Rtitle{
+  color:rgb(87, 7, 7)
+}
+.Ttitle{
+  color:rgb(23, 37, 1)
+}
+.Mtitle{
+  color:rgb(26, 51, 51)
+}
+.Ftitle{
+  color:rgb(109, 34, 194)
+}
+.Atitle{
+  color:rgb(56, 75, 117)
+}
+.Hheader{
+  background-color:rgb(109, 69, 9)
+}
+.Rheader{
+  background-color:rgb(87, 7, 7)
+}
+.Theader{
+  background-color:rgb(23, 37, 1)
+}
+.Mheader{
+  background-color:rgb(26, 51, 51)
+}
+.Fheader{
+  background-color:rgb(109, 34, 194)
+}
+.Aheader{
+  background-color:rgb(56, 75, 117)
+}
+/*AllBooks*/

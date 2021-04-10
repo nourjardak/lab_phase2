@@ -1,0 +1,1 @@
+export const Genres=["Historical","Romance","Thriller","Mystery","Fantasy","Action"]
